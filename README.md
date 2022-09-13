@@ -4,9 +4,4 @@
 ***Probability and Statistics*** course materials for B.Sc students, Electrical Engineering Department, Tehran Polytechnique.
 
 ## :bookmark_tabs: Table of Content
-- [01-Build-a-bash-script](01-Build-a-bash-script)
-- [02-Variables-and-shell-expansions](02-Variables-and-shell-expansions)
-- [03-Bash-command-processing](03-Bash-command-processing)
-- [04-User-input](04-User-input)
-- [05-Logic](05-Logic)
-- [06-Processing-options-and-reading-files](06-Processing-options-and-reading-files)
+- [01-Probabilty-basics](01-Probabilty-basics)
