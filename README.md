@@ -4,5 +4,5 @@
 ***Probability and Statistics*** course materials for B.Sc students, [Electrical Engineering Department](https://ee.aut.ac.ir/en), [Tehran Polytechnique](https://aut.ac.ir/). 
 
 
-## :bookmark_tabs: Table of Content
+## :bookmark_tabs: Table of Contents
 - [01-Probabilty-basics](01-Probabilty-basics)
